@@ -1,0 +1,11 @@
+D:\Study\Компьютерная графика\Daniel - ColorConverter\Daniel - ColorConverter\bin\Debug\Daniel - ColorConverter.exe.config
+D:\Study\Компьютерная графика\Daniel - ColorConverter\Daniel - ColorConverter\bin\Debug\Daniel - ColorConverter.exe
+D:\Study\Компьютерная графика\Daniel - ColorConverter\Daniel - ColorConverter\bin\Debug\Daniel - ColorConverter.pdb
+D:\Study\Компьютерная графика\Daniel - ColorConverter\Daniel - ColorConverter\obj\Debug\Daniel - ColorConverter.csproj.AssemblyReference.cache
+D:\Study\Компьютерная графика\Daniel - ColorConverter\Daniel - ColorConverter\obj\Debug\Daniel - ColorConverter.csproj.SuggestedBindingRedirects.cache
+D:\Study\Компьютерная графика\Daniel - ColorConverter\Daniel - ColorConverter\obj\Debug\Daniel___ColorConverter.Form1.resources
+D:\Study\Компьютерная графика\Daniel - ColorConverter\Daniel - ColorConverter\obj\Debug\Daniel___ColorConverter.Properties.Resources.resources
+D:\Study\Компьютерная графика\Daniel - ColorConverter\Daniel - ColorConverter\obj\Debug\Daniel - ColorConverter.csproj.GenerateResource.cache
+D:\Study\Компьютерная графика\Daniel - ColorConverter\Daniel - ColorConverter\obj\Debug\Daniel - ColorConverter.csproj.CoreCompileInputs.cache
+D:\Study\Компьютерная графика\Daniel - ColorConverter\Daniel - ColorConverter\obj\Debug\Daniel - ColorConverter.exe
+D:\Study\Компьютерная графика\Daniel - ColorConverter\Daniel - ColorConverter\obj\Debug\Daniel - ColorConverter.pdb
