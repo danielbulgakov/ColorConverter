@@ -74,6 +74,7 @@ namespace Daniel___ColorConverter
 
         }
 
+        // Update stored values of trackBars
         private void tB_update()
         {
             tB1 = this.trackBar1.Value;
@@ -81,6 +82,7 @@ namespace Daniel___ColorConverter
             tB3 = this.trackBar3.Value;
         }
 
+        // Cancel latest step
         private void cancelToolStripMenuItem_Click(object sender, EventArgs e)
         {
             this.pictureBox1.Image = Buff;
@@ -89,7 +91,8 @@ namespace Daniel___ColorConverter
             else if (delta.Item2 == 3) trackBar3.Value = delta.Item1;
         }
 
-        private void button1_Click(object sender, EventArgs e) // Color Handler
+        // Color Handler
+        private void button1_Click(object sender, EventArgs e) 
         {
             Buff = this.pictureBox1 != null ? this.pictureBox1.Image : null;
             this.Cursor = Cursors.WaitCursor;
@@ -114,7 +117,8 @@ namespace Daniel___ColorConverter
             this.Cursor = Cursors.Default;
         }
 
-        private void button2_Click(object sender, EventArgs e) // Saturation handler
+        // Saturation handler
+        private void button2_Click(object sender, EventArgs e) 
         {
             Buff = this.pictureBox1 != null ? this.pictureBox1.Image : null;
             this.Cursor = Cursors.WaitCursor;
@@ -142,7 +146,8 @@ namespace Daniel___ColorConverter
 
         }
 
-        private void button3_Click(object sender, EventArgs e) // Brightness handler
+        // Brightness handler
+        private void button3_Click(object sender, EventArgs e) 
         {
             Buff = this.pictureBox1 != null ? this.pictureBox1.Image : null;
             this.Cursor = Cursors.WaitCursor;
